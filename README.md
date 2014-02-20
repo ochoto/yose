@@ -1,4 +1,4 @@
-yose
+YoseTheGame
 ====
 
 http://yosethegame.com/
